@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PurchaseOrder orderDate="2022-10-20">
+  <name>Roberth Smith</name>
+  <shipTo>
+    <street>
+      <name>Pushkinskaja</name>
+    </street>
+    <zip>92361</zip>
+  </shipTo>
+  <shipTo>
+    <name>Kellan Daniel</name>
+    <street>Majakovskaja</street>
+  </shipTo>
+  <shipTo>
+    <name>Katlyn Henry</name>
+    <zip>
+      <name>87121</name>
+    </zip>
+  </shipTo>
+  <shipTo>
+    <name>Cade Crouch</name>
+    <zip>
+      <name>75631</name>
+      <name>75632</name>
+    </zip>
+  </shipTo>
+  <shipTo>
+    <name>Tayah Bray</name>
+    <zip>
+      <name>65311</name>
+      <name>65312</name>
+      <name>65313</name>
+      <name>65314</name>
+    </zip>
+  </shipTo>
+  <shipTo>
+    <name>Amrita James</name>
+    <zip>
+      <name>98721</name>
+      <name>98722</name>
+      <name>98723</name>
+      <name>98724</name>
+    </zip>
+  </shipTo>
+  <shipTo>
+    <name>Skye Rangel</name>
+    <zip>
+      <name>91901</name>
+      <name>91902</name>
+      <name>91903</name>
+      <name>91904</name>
+    </zip>
+  </shipTo>
+</PurchaseOrder>
